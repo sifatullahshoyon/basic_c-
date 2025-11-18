@@ -14,6 +14,7 @@ int main(){
     // TODO String
     int x;
     cin >> x;
+    // ignore extra space , enter ect
     cin.ignore();
     char s[100];
     // input
